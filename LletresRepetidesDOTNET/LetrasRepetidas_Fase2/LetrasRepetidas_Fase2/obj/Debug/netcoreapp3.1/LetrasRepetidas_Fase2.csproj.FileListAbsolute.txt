@@ -1,0 +1,13 @@
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\obj\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\obj\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\obj\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\obj\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.AssemblyInfo.cs
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\bin\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.exe
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\bin\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.deps.json
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\bin\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.runtimeconfig.json
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\bin\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\bin\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\bin\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\obj\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\obj\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\LetrasRepetidas_Fase2\LetrasRepetidas_Fase2\obj\Debug\netcoreapp3.1\LetrasRepetidas_Fase2.genruntimeconfig.cache

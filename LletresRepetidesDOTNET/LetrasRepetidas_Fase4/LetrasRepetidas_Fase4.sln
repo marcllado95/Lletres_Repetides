@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetrasRepetidas_Fase4", "LetrasRepetidas_Fase4\LetrasRepetidas_Fase4.csproj", "{804A849E-4C88-4DE0-AFA6-109CB53A9C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804A849E-4C88-4DE0-AFA6-109CB53A9C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804A849E-4C88-4DE0-AFA6-109CB53A9C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804A849E-4C88-4DE0-AFA6-109CB53A9C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804A849E-4C88-4DE0-AFA6-109CB53A9C05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E61DC64B-D9B3-44F4-8F9E-244F3BEDADD0}
+	EndGlobalSection
+EndGlobal
